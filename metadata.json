@@ -1,0 +1,6 @@
+{
+  "name": "ClassFlip - 중학교 수업용 AI 플래시카드",
+  "description": "중학교 교사를 위한 스마트 AI 플래시카드 제작, 편집 및 교실 수업 발표 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
